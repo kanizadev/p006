@@ -2,8 +2,9 @@
 
 A beautiful and interactive Flutter quiz application with a modern UI, smooth animations, and a sage green color scheme. Test your knowledge with multiple-choice questions and track your progress in real-time.
 
-![Flutter](https://img.shields.io/badge/Flutter-3.9.2+-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-3.9.2+-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 
 
 ## ✨ Features
@@ -35,39 +36,6 @@ A beautiful and interactive Flutter quiz application with a modern UI, smooth an
 - Performance-based messages and icons
 - Percentage calculation
 - Options to retry or return home
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK (3.9.2 or higher)
-- Dart SDK (3.9.2 or higher)
-- Android Studio / VS Code with Flutter extensions
-- Android Emulator / iOS Simulator / Physical Device
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/quiz-app.git
-   cd quiz-app
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   flutter run
-   ```
-
-## 📦 Dependencies
-
-- `flutter` - Flutter SDK
-- `google_fonts: ^6.1.0` - Custom Nunito font for cute typography
-- `cupertino_icons: ^1.0.8` - iOS-style icons
 
 ## 🎮 How to Use
 
@@ -133,35 +101,7 @@ And update all `GoogleFonts.nunito()` calls to your chosen font.
 - ✅ macOS
 - ✅ Linux
 
-## 🛠️ Building for Production
 
-### Android
-```bash
-flutter build apk --release
-# or
-flutter build appbundle --release
-```
-
-### iOS
-```bash
-flutter build ios --release
-```
-
-### Web
-```bash
-flutter build web --release
-```
-
-## 📝 Project Structure
-
-```
-lib/
-├── main.dart          # Main application file with all screens
-test/
-├── widget_test.dart   # Widget tests
-pubspec.yaml          # Dependencies and project configuration
-README.md             # This file
-```
 
 ## 🎯 Features Breakdown
 
@@ -170,23 +110,11 @@ README.md             # This file
 - **ResultsScreen**: Score display with animated results
 - **Question Model**: Data structure for quiz questions
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👨‍💻 Author
 
-Your Name - [@yourusername](https://github.com/yourusername)
+Your Name - [@kanizadev](https://github.com/kanizadev)
 
 ## 🙏 Acknowledgments
 
