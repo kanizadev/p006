@@ -20,7 +20,7 @@ A beautiful and interactive Flutter quiz application with a modern UI, smooth an
 - 🔄 **Easy Navigation** - Seamless transitions between screens
 
 ## 🖼️ Screenshots
-
+<img src="https://raw.githubusercontent.com/kanizadev/p006/refs/heads/main/image.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p006/refs/heads/main/image1.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p006/refs/heads/main/image2.png" hight=446 width=243 />
 ### Home Screen
 - Welcome screen with animated quiz icon
 - Start quiz button with smooth transitions
